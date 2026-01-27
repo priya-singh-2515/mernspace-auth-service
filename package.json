@@ -1,0 +1,21 @@
+{
+  "name": "auth-service",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/priya-singh-2515/mernspace-auth-service#readme",
+  "bugs": {
+    "url": "https://github.com/priya-singh-2515/mernspace-auth-service/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priya-singh-2515/mernspace-auth-service.git"
+  },
+  "license": "ISC",
+  "author": "Priya Singh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
