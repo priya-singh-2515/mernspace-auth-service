@@ -1,4 +1,4 @@
-function welcome (name: string){
-     console.log(`Welcome to the Auth Service, ${name}!`);
+function welcome(name: string) {
+  console.log(`Welcome to the Auth Service, ${name}!`);
 }
- welcome("Priya Singh");
+welcome("Priya Singh");
